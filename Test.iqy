@@ -1,0 +1,11 @@
+WEB
+1
+https://github.com/KeesHogewoning/Test-Files
+
+Selection=EntirePage
+Formatting=RTF
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=True
